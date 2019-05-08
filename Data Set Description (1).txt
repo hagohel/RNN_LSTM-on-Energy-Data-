@@ -1,0 +1,27 @@
+Data Set Description
+
+date time year-month-day hour:minute:second 
+TotalConsmp (AC+TV+LED+Peripherals), energy use in Wh (Target)
+R1, Temperature in Room 1, in Celsius
+H_1, Humidity Room 1, in %
+R2, Temperature in Room 2, in Celsius
+H_2, Humidity in Room 2, in %
+R3, Temperature in Room 3, in Celsius
+H_3, Humidity in Room 3, in %
+R4, Temperature Room 4, in Celsius
+H_4, Humidity in Room 4, in %
+R5, Temperature in Room 5, in Celsius
+H_5, Humidity in Room 5, in %
+R6, Temperature Room 6, in Celsius
+H_6, Humidity in Room 6, in %
+R7, Temperature in Room 7, in Celsius
+H_7, Humidity in Room 7, in %
+R8, Temperature in Room 8, in Celsius
+H_8, Humidity in Room 8, in %
+R9, Temperature in Room 9, in Celsius
+H_9, Humidity in Room 9, in %
+To, Temperature outside, in Celsius
+Pressure outside, in mm Hg
+RH_out, Humidity outside, in %
+Windspeed, in m/s
+Visibility, in km
